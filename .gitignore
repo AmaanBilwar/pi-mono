@@ -10,7 +10,6 @@ packages/*/dist-firefox/
 *.cpuprofile
 
 # Environment
-.env
 
 # Editor files
 .vscode/
@@ -38,3 +37,4 @@ plans/
 .pi/hf-sessions/
 .pi/hf-sessions-backup/
 collect.sh
+config.bat
